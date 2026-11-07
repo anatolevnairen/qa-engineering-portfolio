@@ -1,6 +1,6 @@
-# qa-engineering-portfolio
-Practical QA portfolio featuring test documentation, API testing, UI automation examples, and technical problem-solving exercises.
 # QA Engineering Portfolio
+Practical QA portfolio featuring test documentation, API testing, UI automation examples, and technical problem-solving exercises.
+
 
 Welcome to my QA Engineering Portfolio.
 
